@@ -1,6 +1,8 @@
 # Location-Tracker
 ## React + Vite
- Vercel Deploy Link - location-tracker-kappa.vercel.app
+
+## Vercel Deploy Link - https://location-tracker-kappa.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. A simple Location Tracker app built with React and Vite. This app tracks and displays your current location using the browser’s Geolocation API.
 
 Currently, two official plugins are available:
