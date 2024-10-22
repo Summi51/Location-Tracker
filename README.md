@@ -21,16 +21,22 @@ Currently, two official plugins are available:
 ## Screenshot
 <img width="1040" alt="Screenshot 2024-10-23 at 12 42 20 AM" src="https://github.com/user-attachments/assets/a9a2569c-5f49-4c97-a5f3-1f4be478c851">
 <img width="974" alt="Screenshot 2024-10-23 at 12 42 30 AM" src="https://github.com/user-attachments/assets/81119bca-8583-4c21-9574-72b63f023c0e">
+
 ## Setup & Installation
+
 - Clone the repository: 
   git clone https://github.com/Summi51/Location-Tracker.git
+  
 - Navigate to the project directory:
 cd Location-Tracker-master
+
 - Install dependencies:
 npm install
+
 - Start the development server:
 npm run dev
 Your app will be running at http://localhost:5173/.
+
 - Build for Production:
 To build the project for production, run:
 npm run build
